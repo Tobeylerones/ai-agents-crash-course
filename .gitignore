@@ -3,3 +3,6 @@
 *.pyc
 .DS_Store
 .claude
+shorts_compiler/client_secret.json
+shorts_compiler/token.json
+shorts_compiler/out/
